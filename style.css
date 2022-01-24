@@ -1,0 +1,19 @@
+#inserirTarefa{
+
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: inherit;
+    color: black;
+    margin: 20px;
+}
+.titulo{
+    text-align: center;
+    margin-top: 50px;
+}
+.btn-success{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+}
+#lista{
+    
+}
